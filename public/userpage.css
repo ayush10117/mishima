@@ -1,0 +1,33 @@
+body{
+margin-top: 20px;margin-left: 20px;margin-right: 20px;margin-right: 20px;
+}
+h1 
+{
+    color: white;
+    font-size: 100px;
+}
+
+p h3 
+{
+    color: white;
+    font-size: 40px;
+}
+
+p.end 
+{
+    color: white;
+    font-size: 40px;
+}
+
+p.href a 
+{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+p.href a:hover 
+{
+    text-decoration: underline;
+    color: aqua;
+}

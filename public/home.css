@@ -1,0 +1,49 @@
+#logo
+{
+    display: flex;
+    width: 400px;
+    height: 300px;
+    align-items: flex-start;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+
+a
+{
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    text-align: end;
+    border: 1px solid #000;
+    padding: 5px 10px;
+    background-color: rgba(0, 0, 0, 0.629);
+    border-radius: 10px;
+ 
+}
+
+a:hover
+{
+    color: aqua;
+    text-decoration: underline;
+}
+
+p
+{
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+div.logins
+{
+    padding: 5px;
+    border: 3px black;
+    text-align: center;
+    text-indent: 25px;
+    margin-top: 100px;
+}
+div.background
+{
+    float: left;
+    margin-top: 0px;
+}

@@ -1,0 +1,42 @@
+*{
+    margin-top: 20px;margin-left: 20px;margin-right: 20px;margin-right: 20px;
+}
+h1
+{
+    color: white;
+    text-shadow: 2px 2px 2px grey;
+}
+
+p a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+
+a:hover
+{
+    color: aqua;
+    text-decoration: underline;
+}
+
+div.form-floating
+{ 
+    width: 50%;
+}
+
+div.remember
+{
+    color: white;
+}
+
+p.forgot
+{
+    color: white;
+    font-size: 20px;
+}
+
+p.home
+{
+    text-align: right;
+}

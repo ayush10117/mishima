@@ -1,0 +1,30 @@
+body
+{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+h1
+{
+    color: white;
+}
+
+a.home
+{
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+}
+
+a.home:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+
+.btn
+{
+    padding: 5px;
+    size: 150%;
+}
